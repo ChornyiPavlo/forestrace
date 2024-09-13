@@ -175,6 +175,12 @@ header {
   .story-content img {
     width: 100%;
   }
+  .hero {
+    padding: 0;
+  }
+  .hero h1 {
+    font-size: 2rem;
+  }
 }
 
 @media (max-width: 480px) {
