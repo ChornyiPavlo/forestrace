@@ -816,7 +816,9 @@ nav ul li:hover a {
   background-color: black;
   border-color: #fff;
 }
-
+.hero-image {
+  width: 40%;
+}
 .h-80 {
   height: 80px;
   background-size: auto;
@@ -940,5 +942,8 @@ nav ul li:hover a {
   }
   #original {
     display: block;
+  }
+  .hero-image {
+    width: 100%;
   }
 }
